@@ -11,6 +11,7 @@ from pyrogram.types import (
 )
 
 from MadmaxXMusic import app
+from MadmaxXMusic.plugins.bot.settings import EMMA_PICS
 from MadmaxXMusic.utils.database import (
     add_nonadmin_chat,
     get_authuser,
